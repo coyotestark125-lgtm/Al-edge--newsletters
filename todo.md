@@ -1,0 +1,23 @@
+# Project TODO
+
+- [x] Basic homepage layout
+- [x] Navigation menu
+- [x] Email capture form with Beehiiv integration
+- [x] Featured AI tool affiliate cards (6 tools)
+- [x] AI-powered tool recommendation quiz at /quiz
+- [x] Members dashboard at /dashboard
+- [x] Database schema (users, subscriptions, premium content)
+- [x] Beehiiv email integration
+- [x] Redesign landing page - hero with strong headline
+- [x] Redesign landing page - testimonials from 3 subscribers
+- [x] Redesign landing page - FAQ with 5 questions
+- [x] Redesign landing page - footer with privacy policy link
+- [x] Redesign landing page - cleaner affiliate tool cards
+- [x] Redesign landing page - optimize for email signups (multiple CTAs)
+- [x] Add Privacy Policy page at /privacy
+- [x] Add Terms of Service page at /terms
+- [x] Add "Take the Quiz" CTA on homepage linking to /quiz
+- [ ] Blog section with SEO articles
+- [ ] Premium content pages in /dashboard
+- [ ] PayPal payment integration for premium tier
+- [ ] Email nurture sequences in Beehiiv
